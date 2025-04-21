@@ -1,0 +1,3 @@
+productName,runDate,ber,status,researchMethod,category,verkoopPrijs,link,prijs,land,video1,btw,mergeExBtw,mergeInBtw,avatarUrl
+Product1,2024-08-03,1.55,Running,Method1,Category1,€59.95,https://example.com/product1,€59.95,Worldwide,https://facebook.com/videos/product1,€12.59,€40.47,€27.88,https://randomuser.me/api/portraits/men/3.jpg
+Product2,2024-08-03,1.55,Ready,Method2,Category2,€59.95,https://example.com/product2,€59.95,Worldwide,https://facebook.com/videos/product2,€12.59,€40.47,€27.88,https://randomuser.me/api/portraits/women/4.jpg
